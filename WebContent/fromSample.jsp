@@ -6,7 +6,7 @@
 <title>ユーザー登録もどき</title>
 </head>
 <body>
-<form action="/WorkShop/FormSampleServlet" method="post">
+<form action="/TEAM01/FormSampleServlet" method="post">
 名前：<br>
 <input type="text" name="name"><br>
 性別：<br>
