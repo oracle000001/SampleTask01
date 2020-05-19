@@ -1,0 +1,9 @@
+/build/
+
+
+# Eclipse
+.classpath
+
+#keep
+!/WebContent/WEB-INF/lib
+!/src/
