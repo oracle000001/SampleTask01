@@ -2,8 +2,10 @@
 
 
 # Eclipse
-.classpath
+
 
 #keep
+/WebContent/WEB-INF/lib/*
 !/WebContent/WEB-INF/lib
+/*
 !/src/
